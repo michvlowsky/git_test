@@ -1,1 +1,2 @@
 This is a test of my first repository on github. Hello Michael from whenever you read this!
+##Test of writing a comment in vs code
